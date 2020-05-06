@@ -17,7 +17,6 @@ public class Animal {
         type = typee;
 
     }
-    
     /** 
     * Gets the type of animal eg. Sheep, Cow, Pig
     * @return type of animal
@@ -42,7 +41,7 @@ public class Animal {
             happiness += hap;
         }
     }
-    
+    yummy
     /** 
     * Gets how much the animal is worth
     * @return animal worth

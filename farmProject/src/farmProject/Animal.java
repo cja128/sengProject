@@ -4,7 +4,7 @@ package farmProject;
 * This class implements individual animals that are stored in the farm
 * @author Alec, Christian
 */
-
+i have edited this
 public class Animal {
     private Double health = 1.0;
     private Double happiness = 1.0;
